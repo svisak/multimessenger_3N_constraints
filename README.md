@@ -24,5 +24,11 @@ This repository is a code companion to [Somasundaram et al. (arXiv:2410.00247)](
 
 ## Contents
 
- * The Jupyter Norebooks, `plot_*.ipynb`, are the main ingredients of this repository. Each notebook contains a brief description of the data it reads in, the analysis it performs, and the main figure(s) in the paper that it re-creates. 
+ * The Jupyter Notebooks, `plot_*.ipynb`, are the main ingredients of this repository. Each notebook contains a brief description of the data it reads in, the analysis it performs, and the main figure(s) in the paper that it re-creates.
+ * The `ML_files` folder holds the saved machine learning (ML) based emulators used in the analysis. The ML models are stored as `.pickle` files and can be read by the accompanying Jupyter Notebooks.
+ * The `NICER` folder contains Likelihood weights for each GW170817 posterior EOS sample. Each file is labelled according to the name of the NICER pulsar (J0030,J0740,J0437) and the EOS model (2,5,7-parameter models).
+ * The `PMM` folder stores the fit values of the matrix elements of the parametric matrix models (PMM) used in the paper. Each file is labelled according to the density at which the PMM is used. This folder also contains the training and validation data for the PMM, generated using third-order many-body perturbation theory.
+ * The `compound_unc_samples` folder contains 70 EOS validation samples used to estimate the total compound uncertainty (neural network error + PMM error) of the emulators used in this work. These samples are used to generate Fig. 4.
+ * The `figures` folder contains the main plots in this paper and the `source_data` folder stores the data that is plotted in the figures.
+
 
