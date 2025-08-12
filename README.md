@@ -1,1 +1,1 @@
-# multimessenger_3N_constraints
+# Inferring three-nucleon couplings from multi-messenger neutron-star observations
