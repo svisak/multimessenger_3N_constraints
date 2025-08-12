@@ -17,3 +17,7 @@
 **<sup>7</sup>Canadian Institute for Theoretical Astrophysics, University of Toronto, Toronto, Ontario M5S 3H8, Canada**
 
 **<sup>8</sup>Perimeter Institute for Theoretical Physics, Waterloo, Ontario N2L 2Y5, Canada**
+
+## Introduction
+
+This repository is a code companion to [Somasundaram et al. (arXiv:2410.00247)](https://arxiv.org/abs/2410.00247) and the Zenodo database (XXXX). The latter contains the large datasets used in this work. The Jupyter Notebooks provided here, along with the data in the Zenodo database, can be used to re-create the analysis of the paper and to generate the main figures. 
