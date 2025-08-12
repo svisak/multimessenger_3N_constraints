@@ -21,3 +21,8 @@
 ## Introduction
 
 This repository is a code companion to [Somasundaram et al. (arXiv:2410.00247)](https://arxiv.org/abs/2410.00247) and the Zenodo database (XXXX). The latter contains the large datasets used in this work. The Jupyter Notebooks provided here, along with the data in the Zenodo database, can be used to re-create the analysis of the paper and to generate the main figures. 
+
+## Contents
+
+ * The Jupyter Norebooks, `plot_*.ipynb`, are the main ingredients of this repository. Each notebook contains a brief description of the data it reads in, the analysis it performs, and the main figure(s) in the paper that it re-creates. 
+
