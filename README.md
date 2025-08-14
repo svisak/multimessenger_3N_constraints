@@ -31,7 +31,7 @@ This repository is a code companion to [Somasundaram et al. (arXiv:2410.00247)](
  * The `compound_unc_samples` folder contains 70 EOS validation samples used to estimate the total compound uncertainty (neural network error + PMM error) of the emulators used in this work. These samples are used to generate Fig. 4.
  * The `figures` folder contains the main plots in this paper and the `source_data` folder stores the data that is plotted in the figures.
 
-Additionally, this repository contains empty folders which are intended to hold large datafiles that can be downloaded from the accompanying Zeondo databse. These datasets are required to run some of the Jupyter Notebooks. These folders are:
+Additionally, this repository contains empty folders which are intended to hold large datafiles that can be downloaded from the accompanying [Zeondo databse](https://doi.org/10.5281/zenodo.16878207). These datasets are required to run some of the Jupyter Notebooks. These folders are:
  * `Full_PE_results`: EOS posterior samples obtained from parameter estimation for third-generation detectors, performed under the zero-noise approximation.
  * `GW170817`: EOS posterior samples obtained from our GW170817 analysis.
  * `Injection_results`: EOS posterior samples for third-generation detectors, obtained under the Fisher Matrix approximation.
