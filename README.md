@@ -20,7 +20,7 @@
 
 ## Introduction
 
-This repository is a code companion to [Somasundaram et al. (arXiv:2410.00247)](https://arxiv.org/abs/2410.00247) and the Zenodo database (XXXX). The latter contains the large datasets used in this work. The Jupyter Notebooks provided here, along with the data in the Zenodo database, can be used to re-create the analysis of the paper and to generate the main figures. 
+This repository is a code companion to [Somasundaram et al. (arXiv:2410.00247)](https://arxiv.org/abs/2410.00247) and the Zenodo database located [here](https://doi.org/10.5281/zenodo.16878207). The latter contains large datasets used in this work. The Jupyter Notebooks provided here, along with the data in the Zenodo database, can be used to re-create the analyses of the paper and to generate the main figures.    
 
 ## Contents
 
