@@ -39,7 +39,17 @@ Additionally, this repository contains empty folders which are intended to hold 
 
 ## Acknowledgements
 
-The paper, along with its accompanying data and data analysis notebooks, has been approved for unlimited release and assigned LA-UR-24-29187. We thank C.L. Armstrong, K. Godbey, and P. Giuliani for feedback about the implementation of the PMM. We further thank D. Brown, C. Capano, C. Forssen, K. Hebeler, and W.G. Jiang for useful discussions. 
+The paper, along with its accompanying data and data analysis notebooks, has been approved for unlimited release and assigned LA-UR-24-29187. We thank C.L. Armstrong, K. Godbey, and P. Giuliani for feedback about the implementation of the PMM. We further thank D. Brown, C. Capano, C. Forssen, K. Hebeler, and W.G. Jiang for useful discussions. We also thank the Institute for Nuclear Theory at the University of Washington for its kind hospitality and stimulating research environment.
+
+R.S. acknowledges support from the Nuclear Physics from Multi-Messenger Mergers (NP3M) Focused Research Hub which is funded by the National Science Foundation under Grant Number 21-16686, and from the Laboratory Directed Research and Development program of Los Alamos National Laboratory under project number 20220541ECR.
+I.S. and A.S. were supported in part by the European Union's Horizon 2020 research and innovation programme (Grant Agreement No.~101020842).
+S.D., A.E.D., and I.T. were supported by the Laboratory Directed Research and Development program of Los Alamos National Laboratory under project number 20230315ER.
+A.E.D. was also supported in part by the U.S. Department of Energy, Office of Science, Office of Workforce Development for Teachers and Scientists (WDTS) under the Science Undergraduate Laboratory Internships Program (SULI).
+I.T. was also supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics, under contract No.~DE-AC52-06NA25396, by the U.S. Department of Energy, Office of Science, Office of Advanced Scientific Computing Research, Scientific Discovery through Advanced Computing (SciDAC) NUCLEI program, and by the Laboratory Directed Research and Development program of Los Alamos National Laboratory under project numbers 20220541ECR.
+Y.D. was supported by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) – Project-ID 279384907 – SFB 1245.
+P.L. is supported by the Natural Sciences \& Engineering Research Council of Canada (NSERC). Research at Perimeter Institute is supported in part by the Government of Canada through the Department of Innovation, Science and Economic Development and by the Province of Ontario through the Ministry of Colleges and Universities.
+Computational resources have been provided by the Los Alamos National Laboratory Institutional Computing Program, which is supported by the U.S. Department of Energy National Nuclear Security Administration under Contract No. 89233218CNA000001, and by the National Energy Research Scientific Computing Center (NERSC), which is supported by the U.S. Department of Energy, Office of Science, under contract No. DE-AC02-05CH11231, using NERSC awards NP-ERCAP-m3319 and NP-ERCAP-m4338.
+I.S. and A.S. gratefully acknowledge the computing time provided on the high-performance computer Lichtenberg II at the TU Darmstadt. This is funded by the German Federal Ministry of Education and Research (BMBF) and the State of Hesse. I.S. and A.S. also gratefully acknowledge the Gauss Centre for Supercomputing e.V. (www.gauss-centre.eu) for funding this project by providing computing time on the GCS Supercomputer JUWELS~\cite{JUWELS} at Jülich Supercomputing Centre (JSC).
 
 ## Authors contributions:
 
